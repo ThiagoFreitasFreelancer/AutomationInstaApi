@@ -1,0 +1,35 @@
+### Browser ###
+
+
+### Workspace ###
+.idea/
+*.log
+mintty.exe.stackdump
+bash.exe.stackdump
+
+### Target ###
+target/
+target
+
+!.mvn/wrapper/maven-wrapper.jar
+!/src/main//target/
+!/src/test//target/
+src/main/resources/schema.sql
+*.env
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### Others ###
+.DS_STORE
+docker-compose.yml
+logs/
+package-lock.json
+.env
+env
