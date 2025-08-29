@@ -77,7 +77,9 @@ public class InstagramPublisher {
             "56fUZcW",
             "OCZswru",
             "AoxRDZE",
-            "Av0qWUU"
+            "Av0qWUU",
+            "H74SCx0",
+            "Vh2YSN2"
     };
 
     public static String hiperlink = "https://www.punkcodesolution.com.br";
